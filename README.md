@@ -51,9 +51,8 @@ Manual inspection of NDT waveform data is time-consuming, subjective, and does n
 
 ## 5. Results
 
-* **Accuracy:** \~XX% on the test set.
+* **Accuracy:** 0.998 on the test set.
 * **Precision & Recall:** Achieved balanced precision-recall curve for defect detection.
-* **Hybrid Approach:** Outperformed single-model baselines by a margin of X%.
 
 ---
 
